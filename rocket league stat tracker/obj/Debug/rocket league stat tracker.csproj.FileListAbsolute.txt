@@ -1,0 +1,10 @@
+C:\Users\Jason\source\repos\rocket league stat tracker\rocket league stat tracker\bin\Debug\rocket league stat tracker.exe.config
+C:\Users\Jason\source\repos\rocket league stat tracker\rocket league stat tracker\bin\Debug\rocket league stat tracker.exe
+C:\Users\Jason\source\repos\rocket league stat tracker\rocket league stat tracker\bin\Debug\rocket league stat tracker.pdb
+C:\Users\Jason\source\repos\rocket league stat tracker\rocket league stat tracker\obj\Debug\rocket league stat tracker.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\rocket league stat tracker\rocket league stat tracker\obj\Debug\rocket_league_stat_tracker.Form1.resources
+C:\Users\Jason\source\repos\rocket league stat tracker\rocket league stat tracker\obj\Debug\rocket_league_stat_tracker.Properties.Resources.resources
+C:\Users\Jason\source\repos\rocket league stat tracker\rocket league stat tracker\obj\Debug\rocket league stat tracker.csproj.GenerateResource.cache
+C:\Users\Jason\source\repos\rocket league stat tracker\rocket league stat tracker\obj\Debug\rocket league stat tracker.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\rocket league stat tracker\rocket league stat tracker\obj\Debug\rocket league stat tracker.exe
+C:\Users\Jason\source\repos\rocket league stat tracker\rocket league stat tracker\obj\Debug\rocket league stat tracker.pdb
